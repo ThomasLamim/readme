@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou o Thomas</h1>
-<h3 align="center">Trabalhando com Excel por três anos e utilizando suas variadas ferramentas, comecei a estudar SQL, Linguagem R, Python e softwares de análise de dados, como Power BI e Tableau.</h3>
+<h3 align="center">Trabalhando com Excel por três anos e utilizando suas variadas ferramentas, comecei a estudar SQL, Python e Power BI.</h3>
 
-- Atualmente eu estou estudando **SQL, Python, Linguagem R, Power BI e Tableau.**
+- Atualmente eu estou estudando **SQL, Python e Power BI!**
 
 - Fale comigo sobre **Excel, MacroVBA, Dashboards, Dados, etc.**
 
