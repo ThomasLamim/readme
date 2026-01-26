@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o Thomas</h1>
-<h3 align="center">Trabalhando com Excel por três anos e utilizando suas variadas ferramentas, comecei a estudar SQL, Python e Power BI.</h3>
+<h3 align="center">Trabalhando com Excel desde 2019 e utilizando suas variadas ferramentas, comecei a estudar SQL, Python e Power BI.</h3>
 
 - Atualmente eu estou estudando **SQL, Python e Power BI!**
 
